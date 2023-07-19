@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning python c++ and Chemical
 - 💬 Ask me about Physics
 
+
+
+-💨I am a Mingdao high school student
+-お知らせ下さい
+
 <!---
 hhjbear/hhjbear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
