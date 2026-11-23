@@ -6,7 +6,7 @@
 
 
 -💨Mingdao high school student ----> National Taiwan Noramal University
--はじめまして、よろしくお願いします
+- はじめまして、よろしくお願いします
 
 <!---
 hhjbear/hhjbear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
