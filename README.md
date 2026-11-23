@@ -1,11 +1,11 @@
 - 👋 Hi, I’m hhjbear
-- 👀 I’m interested in Programming sports and listen to music
-- 🌱 I’m currently learning python c++ and Chemical
+- 👀 I’m interested in Science, Badminaton and listen music
+- 🌱 I’m currently learning Physics, Japanese, Badminton
 - 💬 Ask me about Physics
 
 
 
--💨I am a Mingdao high school student
+-💨Mingdao high school student ----> National Taiwan Noramal University
 -お知らせ下さい
 
 <!---
